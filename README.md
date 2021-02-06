@@ -1,6 +1,5 @@
-# Regresión líneal multiple
-
+# Serie de tiempo
 ## Objetivo:
-Predecir el precio de cierre de Bitcoin a través de los precios de apertura de otras criptomonedas.
+Pronosticar los posibles precios de Bitcoin a través de los meses a partir de sus datos históricos.
   
   
